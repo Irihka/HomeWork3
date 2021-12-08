@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork3</string>
+    <string name="center">CENTER</string>
+    <string name="first_filter">first filter</string>
+    <string name="second_filter">second filter</string>
+    <string name="green_button">green button</string>
+    <string name="third_filter">third filter</string>
+</resources>
